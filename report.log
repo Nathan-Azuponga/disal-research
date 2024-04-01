@@ -1,0 +1,38 @@
+2024-03-23 17:58:07,197 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:00:22,682 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:02:00,181 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:02:05,549 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:05:54,486 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:05:54,498 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/ayirebaje/Desktop/disal-research/.venv/lib/python3.12/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
+2024-03-23 18:06:31,866 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:06:31,878 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/ayirebaje/Desktop/disal-research/.venv/lib/python3.12/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
+2024-03-23 18:07:23,164 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:07:23,176 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/ayirebaje/Desktop/disal-research/.venv/lib/python3.12/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
+2024-03-23 18:07:36,526 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3}
+2024-03-23 18:07:36,537 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/ayirebaje/Desktop/disal-research/.venv/lib/python3.12/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
+2024-03-23 18:10:17,260 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-03-23 18:10:17,284 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.00032523599904118284, best pos: [-0.00842366  0.01594609]
+2024-03-23 18:11:52,175 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-03-23 18:11:52,191 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.043938419374647576, best pos: [-0.0368845   0.07111224]
+2024-03-23 18:23:52,981 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 1.5, 'c2': 1.5, 'w': 0.8}
+2024-03-23 18:23:52,999 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 4.490832448403736, best pos: [0.61522211 0.53385389]
